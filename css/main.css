@@ -11,3 +11,37 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+div a {
+  text-decoration: none;
+}
+
+/* Button sizes */
+.btn {
+
+}
+
+.btn-small {
+
+}
+
+.btn-big {
+
+}
+
+/* Button types */
+.primary {
+
+}
+
+.btn-subtle {
+
+}
+
+.btn-ghost {
+
+}
+
+.btn-warning {
+
+}
